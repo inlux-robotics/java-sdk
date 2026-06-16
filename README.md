@@ -82,3 +82,7 @@ Executes the standardized manual JOG benchmark sequence directly derived from Se
 Execution: Open the file in IntelliJ IDEA and click the green Play (▶) button next to the main method declaration.
 
 [![Watch OEM JOG Manual Specification Video](https://img.youtube.com/vi/u8rZudD9-gY/0.jpg)](https://youtu.be/u8rZudD9-gY)
+
+
+Contact & Support
+Email: support@inluxrobotics.com
