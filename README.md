@@ -71,6 +71,11 @@ Execution: Open the file in IntelliJ IDEA and click the green Play (▶) button 
 
 [![Watch Pick and Place Video](https://img.youtube.com/vi/eN0LwGBVbWg/0.jpg)](https://youtu.be/eN0LwGBVbWg)
 
+
+
+[Watch the video](https://youtu.be/eN0LwGBVbWg)
+
+
 2. Multiaxial JOG Diagnostics (RobotDiagnosticTest.java)
 
    
@@ -80,6 +85,10 @@ Execution: Right-click the class file in the IntelliJ project layout hierarchy a
 
 [![Watch Multiaxial JOG Diagnostics Video](https://img.youtube.com/vi/LZYaZRTk14w/0.jpg)](https://youtu.be/LZYaZRTk14w)
 
+
+[Watch the video](https://youtu.be/LZYaZRTk14w)
+
+
 3. Official OEM Manual JOG Specification (controlJog.java)
 
    
@@ -88,6 +97,10 @@ Executes the standardized manual JOG benchmark sequence directly derived from Se
 Execution: Open the file in IntelliJ IDEA and click the green Play (▶) button next to the main method declaration.
 
 [![Watch OEM JOG Manual Specification Video](https://img.youtube.com/vi/u8rZudD9-gY/0.jpg)](https://youtu.be/u8rZudD9-gY)
+
+
+
+[Watch the video](https://youtu.be/u8rZudD9-gY)
 
 
 Contact & Support
