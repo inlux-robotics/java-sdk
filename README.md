@@ -2,7 +2,7 @@
 
 This repository contains practical examples and standalone configurations for controlling the Fairino robot manipulator using the native **Fairino Java SDK**. 
 
- • SDK Version: v3.9.6
+ • SDK Version: v1.1.4
  
  • Fairino WebApp version: 3.9.6
 
